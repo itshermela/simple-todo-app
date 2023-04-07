@@ -1,0 +1,27 @@
+.app {
+  padding: 30px;
+  background-color: floralwhite;
+}
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+
+}
+.card{
+  background-color: red;
+  margin-left: 65px;
+  
+}
+.form-group {
+  display: flex;
+  width: 100%;
+  margin-bottom: 30px
+}
+.plus-button {
+  margin-left: auto;
+}
+.icon {
+  font-size: 40px
+}
