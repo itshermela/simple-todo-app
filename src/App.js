@@ -32,7 +32,7 @@ function App() {
         <FormTodo addTodo={addTodo} />
         <div>
           {todos.map((todo, index) => (
-            <Card  className='card'>
+            <Card className='card'>
               <Card.Body>
                 <Todo
                 key={index}

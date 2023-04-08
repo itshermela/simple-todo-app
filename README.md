@@ -6,7 +6,6 @@
 
 - React
 - Javascript
-- Html
 - CSS
 - React bootstrap
 
